@@ -1,0 +1,25 @@
+{
+  "enchantment.enchantable_iss.mana_thrift": "マナ節約",
+  "enchantment.enchantable_iss.spell_power": "魔術威力",
+  "enchantment.enchantable_iss.magic_protection": "魔術耐性",
+  "enchantment.enchantable_iss.cooldown_reduction": "クールタイム軽減",
+
+  "enchantment.enchantable_iss.fire_power": "紅蓮の力",
+  "enchantment.enchantable_iss.fire_resist": "火魔術耐性",
+  "enchantment.enchantable_iss.ice_power": "氷結の力",
+  "enchantment.enchantable_iss.ice_resist": "氷魔術耐性",
+  "enchantment.enchantable_iss.holy_power": "聖なる力",
+  "enchantment.enchantable_iss.holy_resist": "聖魔法耐性",
+  "enchantment.enchantable_iss.ender_power": "エンダーの力",
+  "enchantment.enchantable_iss.ender_resist": "エンダー魔術耐性",
+  "enchantment.enchantable_iss.blood_power": "血の力",
+  "enchantment.enchantable_iss.blood_resist": "血魔術耐性",
+  "enchantment.enchantable_iss.evocation_power": "召喚の力",
+  "enchantment.enchantable_iss.evocation_resist": "召喚魔術耐性",
+  "enchantment.enchantable_iss.lightning_power": "雷の力",
+  "enchantment.enchantable_iss.lightning_resist": "雷魔術耐性",
+  "enchantment.enchantable_iss.nature_power": "自然の力",
+  "enchantment.enchantable_iss.nature_resist": "自然魔法耐性",
+  "enchantment.enchantable_iss.eldritch_power": "異界の力",
+  "enchantment.enchantable_iss.eldritch_resist": "異界の魔術耐性"
+}

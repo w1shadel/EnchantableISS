@@ -1,0 +1,25 @@
+{
+  "enchantment.enchantable_iss.mana_thrift": "Mana Thrift",
+  "enchantment.enchantable_iss.spell_power": "Spell Power",
+  "enchantment.enchantable_iss.magic_protection": "Magic Protection",
+  "enchantment.enchantable_iss.cooldown_reduction": "Cooldown Reduction",
+
+  "enchantment.enchantable_iss.fire_power": "Pyromancy Power",
+  "enchantment.enchantable_iss.fire_resist": "Fire Magic Resistance",
+  "enchantment.enchantable_iss.ice_power": "Cryomancy Power",
+  "enchantment.enchantable_iss.ice_resist": "Ice Magic Resistance",
+  "enchantment.enchantable_iss.holy_power": "Holy Power",
+  "enchantment.enchantable_iss.holy_resist": "Holy Magic Resistance",
+  "enchantment.enchantable_iss.ender_power": "Ender Power",
+  "enchantment.enchantable_iss.ender_resist": "Ender Magic Resistance",
+  "enchantment.enchantable_iss.blood_power": "Blood Power",
+  "enchantment.enchantable_iss.blood_resist": "Blood Magic Resistance",
+  "enchantment.enchantable_iss.evocation_power": "Evocation Power",
+  "enchantment.enchantable_iss.evocation_resist": "Evocation Magic Resistance",
+  "enchantment.enchantable_iss.lightning_power": "Lightning Power",
+  "enchantment.enchantable_iss.lightning_resist": "Lightning Magic Resistance",
+  "enchantment.enchantable_iss.nature_power": "Nature Power",
+  "enchantment.enchantable_iss.nature_resist": "Nature Magic Resistance",
+  "enchantment.enchantable_iss.eldritch_power": "Eldritch Power",
+  "enchantment.enchantable_iss.eldritch_resist": "Eldritch Magic Resistance"
+}
