@@ -83,7 +83,7 @@ public abstract class MixinInscriptionTableMenu {
         }
     }
 
-    @Inject(method = "quickMoveStack", at = @At("HEAD"))
+    @Inject(method = "quickMoveStack", at = @At("HEAD"), remap = true)
     private void onQuickMove(Player playerIn, int index, CallbackInfoReturnable<ItemStack> cir) {
         if (index == 38) {
             clearBookNBTOnTake();
